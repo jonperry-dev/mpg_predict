@@ -1,7 +1,8 @@
 [project]
 dependencies = [
-  "kaggle",
   "torch",
   "pandas",
   "scikit-learn",
+  "jupyter",
+  "notebook",
 ]
