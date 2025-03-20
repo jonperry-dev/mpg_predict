@@ -7,4 +7,6 @@ dependencies = [
   "scikit-learn",
   "jupyter",
   "notebook",
+  "seaborn",
+  "matplotlib",
 ]
