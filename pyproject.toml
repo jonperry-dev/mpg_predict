@@ -1,4 +1,6 @@
 [project]
+name = "mpg_predict"
+version = "0.1.0"
 dependencies = [
   "torch",
   "pandas",
